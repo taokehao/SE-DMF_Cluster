@@ -6,7 +6,7 @@
 4. kmeans.py and model.py are python codes for the kmeans algorithm and the hierarchical clustering algorithm.You can run them after downloading the project.
 5. material-name.txt corresponds to what is the structure of each line of features in feature.csv
 
-## Citation
+## Reference
 ```
 Zhoujie Lao, Kehao Tao, Xiao Xiao, Xinru Wu, Haotian Qu, Zhiyuan Han, Runhua Gao, An Chen, Xian Wu, Lei Shi, Chengshuai Chang, Yanze Song, Xiangyu Wang, Jinjin Li, Yanfei Zhu, and Guangmin Zhou, Data-driven exploration of weak coordination microenvironment in solid-state electrolyte for safe and energy-dense batteries, SE-DMF_Cluster, 10.5281/zenodo.14028116, 2024
 ```
